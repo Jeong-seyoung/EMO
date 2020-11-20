@@ -268,5 +268,8 @@ header {
     color:#fff;
     word-wrap: break-word;
   }
-
+  .ingre-item-container{
+    width:1024px
+  }
+ 
  }
